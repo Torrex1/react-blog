@@ -15,4 +15,7 @@ Server:
 
 That's all! <br>
 Have a nice day/night <br>
-        (￣y▽￣)╭ Ohohoho.....
+<p>
+   (￣y▽￣)╭ Ohohoho.....
+</p>
+        

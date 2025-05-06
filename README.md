@@ -1,5 +1,5 @@
-Hey! It's my first big React.js project ^^
-This is a blog. People can write something on their pages, comment on other posts, put likes and maybe repost :D. In this project I learned and used a many different React features. 
+Hey! It's my first big React.js project ^^ <br>
+This is a blog. People can write something on their pages, comment on other posts, put likes and maybe repost :D. In this project I learned and used a many different React features. <br>
 
 ### tech stack ###
 Client: 

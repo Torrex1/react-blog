@@ -1,0 +1,40 @@
+.sidebar-container {
+    width: 15%;
+    height: 100vh;
+    background-color: #edebeb;
+    border-top-right-radius: 15px;
+}
+
+.friendlist {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    padding: 20px;
+}
+
+.friendlist__title {
+    color: #303030E2;
+}
+
+.friendlist__content {
+    border: 1px solid #303030C4;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    width: 220px;
+    cursor: pointer;
+    padding: 5px;
+    border-radius: 8px;
+}
+
+.img-wrapper {
+    width: 30px;
+    border-radius: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.friendlist__content img {
+    width: 30px;
+}
